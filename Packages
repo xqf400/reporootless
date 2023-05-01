@@ -1,0 +1,111 @@
+Package: cum.0xilis.safecuts
+Name: Safecuts
+Author: Snoolie K
+Description: Fix iOS 15.0-15.3.1 hidden actions vuln
+Maintainer: Snoolie K
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 1.1
+Filename: ./debs/Safecuts-1.1-Rootless-Only.deb
+Size: 8936
+MD5sum: 5b8ca65228212378b0f61fbef9e155fc
+SHA1: 31118ab2b349f5b689504abd7c07ad1c1ace778c
+SHA256: 66aac3a3eae5bdb0fcb1a3905a42c570533b92eb267cde75628c71c088463319
+
+Package: cum.0xilis.snooliebattery
+Name: SnoolieBattery
+Author: Snoolie K
+Description: Battery Percent on iOS 15
+Maintainer: Snoolie K
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 1.0
+Filename: ./debs/SnoolieBattery-1.0-Rootless.deb
+Size: 3672
+MD5sum: c01cc7fabe3b9474c6ff48921cb2ba18
+SHA1: 97a07edd258fc82afc34e6601fcf54f0d256702f
+SHA256: 43dc6b7a72810508a6331cc1db54c3051c3aa9787ceec870cf3fa3c1119fef2a
+
+Package: cum.0xilis.unsigncuts
+Name: Unsigncuts
+Author: Snoolie K
+Description: Import unsigned shortcut files
+Maintainer: Snoolie K
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 1.0.1
+Filename: ./debs/Unsigncuts-1.0.1-Rootless.deb
+Size: 3644
+MD5sum: 5310279437b19724221d3eda82405026
+SHA1: ab4287468458ba26d9415421ae7e119eb258468d
+SHA256: ef82fd25e68daf1bc24b4deed6e56503ec4f66ff4478cadd3a50e58417b3b088
+
+Package: cum.0xilis.unsigncuts
+Name: Unsigncuts
+Author: Snoolie K
+Description: Import unsigned shortcut files
+Maintainer: Snoolie K
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 2.0
+Filename: ./debs/cum.0xilis.unsigncuts_2.0_iphoneos-arm64.deb
+Size: 818456
+MD5sum: 74fa5cf81ee256c481f2b3a594195dbf
+SHA1: cdfa117573904965383a78a87026947aebc769a1
+SHA256: 43f0030a17f319264f8b8fc736690c63a196a4f67ba02a19a2abc733ed7e669a
+
+Package: cum.0xilis.anotherlazyhidedocktweak
+Name: AnotherLazyHideDockTweak
+Author: Snoolie K
+Description: Import unsigned shortcut files
+Maintainer: Snoolie K
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 1.1
+Filename: ./debs/AnotherLazyHideDockTweak-1.1-Rootless.deb
+Size: 4056
+MD5sum: 511f31de082700dca7688473f2b62380
+SHA1: b1e62860d5ba6ec04c8d481474a9c9e3af5d4a70
+SHA256: c0a83398a0546bdcf8c9f6007c8f5c34a9b0a586080cf771d0a6173859b28b53
+
+Package: cum.0xilis.dotless
+Name: Dotless
+Author: Snoolie K
+Description: Remove page dots
+Maintainer: Snoolie K
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 1.0
+Filename: ./debs/Dotless-1.0-Rootless.deb
+Size: 3392
+MD5sum: cd8f36db55d5c0210f73914c57114dae
+SHA1: d5b37457b8839b073c884be7dc6299aa6cb83588
+SHA256: 3ceb156a74ce90abebc8132f4faa39da09279e29ca11e53bd4e6258b21b34ee9
+
+Package: cum.0xilis.hidemyvpn
+Name: HideMyVPN
+Author: Snoolie K
+Description: Don't show VPN in Status Bar
+Maintainer: Snoolie K
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 1.0
+Filename: ./debs/HideMyVPN-1.0-Rootless.deb
+Size: 3472
+MD5sum: 3d728b114bf5064e3f80210c0f1543c2
+SHA1: 0a6ae13f07825f365e720040da9e9bb40bd5dd80
+SHA256: 64f3314ec9aeaa497e17d65ac38b9ad67742a5c4e2bec7d0683d8dd925f9d954
+
+Package: cum.0xilis.lightshake
+Name: Lightshake
+Author: Snoolie K
+Description: Shake to toggle flashlight
+Maintainer: Snoolie K
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 1.0.0
+Filename: ./debs/Lightshake-1.0-Rootless.deb
+Size: 4032
+MD5sum: b7c943bd57798a6f9f1597880dccaf6b
+SHA1: 56275b73212d733fa3b5b7464038b2c497c421e2
+SHA256: 44c17d8536a45833bb0f1d7fc89231e047afdc7a886d35cf7787adf1eba1f680
