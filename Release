@@ -2,7 +2,7 @@ Origin: xqf repo rootless
 Label: xqf repo rootless
 Suite: stable
 Version: 1.0
-Codename: cydia-ios
-Architectures: iphoneos-arm
+Codename: XQF
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Rootless repo of XQF
