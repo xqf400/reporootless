@@ -15,3 +15,20 @@ Author: XQF
 Icon: https://fakuit01.github.io/repo1/desc/grabberex/grabberexIcon.png
 Name: GrabberEX
 
+Package: com.xqf.grabberex
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: XQF
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), firmware(>=14.0)
+Filename: ./debs/com.xqf.grabberex_1.1_iphoneos-arm64eroothide.deb
+Size: 24916
+MD5sum: c91d2a44f066d845e6c59e91e3c6f2cb
+SHA1: b5dcf3592218190608ca196187565abb2c58f3ba
+SHA256: e4d3c145444380f7212eef27c790e4b89ad84050344e52eecdba44ebff7eed4f
+Section: Tweaks
+Description: Shows time and battery on the grabber. Perfect for gamers
+Author: XQF
+Icon: https://fakuit01.github.io/repo1/desc/grabberex/grabberexIcon.png
+Name: GrabberEX
+
